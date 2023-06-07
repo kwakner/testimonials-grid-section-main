@@ -56,6 +56,9 @@ body{
   .dan-clif{
     background-color: var(--Moderate-violet);
     color: var(--White);
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top 10px right 100px;
   }
 
   .jona-walt{
